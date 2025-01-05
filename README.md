@@ -11,7 +11,42 @@ To implement data-driven optimization strategies by analyzing the four-stage cus
 * Established automated ETL pipeline using crontab for scheduled downloads and PostgreSQL integration
 * Created robust psql command integration for seamless database updates, ensuring real-time tracking of customer journey progression
 
-  ## Key Insights & Strategic Implications
+## DATA VISUALIZATION
+### 1. Revenue Source Analysis
+
+<img width="700" alt="Screenshot 2025-01-05 at 1 25 05 AM" src="https://github.com/user-attachments/assets/6ea74241-e43e-41b3-96df-0db1515659a3" />
+
+### Key Findings:
+  * Distinct revenue patterns across different acquisition channels, with emphasis on super tree conversion rates
+  * Clear correlation between source type and progression to paying customer status
+  * Seasonal variations in both free tree and super tree sending patterns
+  * Statistical significance in revenue distribution patterns across user journey stages (p < 0.05)
+### 2. User Activity Metrics
+
+<img width="717" alt="Screenshot 2025-01-05 at 1 26 13 AM" src="https://github.com/user-attachments/assets/add5e6dc-bf84-4e19-a751-aa4d6a7b196c" />
+
+### Key Findings:
+  * 7-day rolling average of daily active users across all journey stages
+  * Platform-specific engagement patterns from registration to paying customer status
+  * Peak usage time identification for both free tree and super tree sending
+  * Correlation between activity levels and conversion rates through each funnel stage
+
+### 3. Cohort Retention Analysis
+
+<img width="594" alt="Screenshot 2025-01-05 at 1 26 25 AM" src="https://github.com/user-attachments/assets/60a0e867-660b-4ba5-9664-aa56d9faea0b" />
+
+
+* Key Findings:
+    * First 30-day user journey mapping showing progression through all four stages
+    * Retention patterns by acquisition source, with focus on invitation-based acquisitions
+    * Day-by-day engagement progression from registration to paying customer status
+    * Key drop-off points identified between each journey stage
+### 4.
+<img width="655" alt="Screenshot 2025-01-05 at 1 24 53 AM" src="https://github.com/user-attachments/assets/8424b2c4-76fd-4901-bd5d-286638f81d94" />
+
+
+
+  ## Insights & Analysis 
 ### 1. User Acquisition Dynamics
 * Invitation-based users show 20% conversion rate from registration to paying customers
 * Android platform demonstrates superior performance metrics across all journey stages
