@@ -47,17 +47,10 @@ To implement data-driven optimization strategies by analyzing the four-stage cus
 
 
   ## Insights & Analysis 
-### 1. User Acquisition Dynamics
 * Invitation-based users show 20% conversion rate from registration to paying customers
 * Android platform demonstrates superior performance metrics across all journey stages
 * A clear correlation between initial engagement (free tree sending) and progression to paying customer status
-* Statistically significant patterns in user progression through the four-stage journey
-## 2. Technical Performance Metrics
-* 86% accuracy in device classification using KNN
-* Robust automated pipeline with 99.9% uptime
 * Real-time data processing capabilities tracking all journey stages
-  
-## 3. Revenue Optimization Opportunities
 * Platform-specific strategies for increasing super tree conversion rates
 * Lifetime value variations by acquisition channel and initial engagement patterns
 * Clear monetization pathways from free tree to super tree users
