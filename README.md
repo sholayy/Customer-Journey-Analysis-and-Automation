@@ -1,4 +1,4 @@
-# Advanced Customer Analytics & Platform Optimization Study
+# Customer Analytics & Platform Optimization for gifting platform
 
 ## Project Overview 
 At Send-a-Tree, a digital-to-physical gifting platform, I implemented comprehensive data engineering and analytics solutions to optimize user conversion through a multi-stage customer journey. The project involved building automated data pipelines, developing advanced analytics systems, and implementing machine learning models to drive data-informed decision-making.
