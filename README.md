@@ -3,13 +3,15 @@
 ## Project Overview 
 At Send-a-Tree, a digital-to-physical gifting platform, I implemented comprehensive data engineering and analytics solutions to optimize user conversion through a multi-stage customer journey. The project involved building automated data pipelines, developing advanced analytics systems, and implementing machine learning models to drive data-informed decision-making.
 ## Objective
-To implement data-driven optimization strategies by analyzing the four-stage customer journey (Registration → Free Tree → Super Tree → Paying Customer), understanding conversion patterns, and identifying opportunities to increase the progression rate through each stage of the funnel.
-## Methodology & Technical Infrastructure
-### Data Engineering Pipeline
-* Implemented automated data collection using bash scripting with while loops for 160+ days of historical data, ensuring comprehensive tracking of customer progression through all stages
-* Developed categorization system using command line operations for registration status sorting, enabling clear segmentation of users at each journey stage
-* Established automated ETL pipeline using crontab for scheduled downloads and PostgreSQL integration
-* PostgreSQL integration for structured data storage and analysis ensuring real-time tracking of customer journey progression
+The goal was to analyze customer behavior data for a send-a-tree startup over 200+ days, providing valuable insights to help founders and the marketing team make informed decisions about revenue generation, customer segmentation, user engagement, and growth strategies.
+## Business Questions Answered
+
+Which customer acquisition channels delivered the highest conversion rates to paying customers?
+What were the patterns in user progression through our funnel from registration to payment?
+How did device type influence purchase behavior and revenue generation?
+Which demographic segments (by age/birth year) showed the strongest revenue potential?
+How did user behavior evolve over their first 30 days on the platform?
+Could we accurately predict device types from user behavior when explicit data was missing?"
 
 ## DATA VISUALIZATION
 ### 1. Revenue Source Analysis
